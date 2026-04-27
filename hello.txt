@@ -1,1 +1,2 @@
 i started my devops journey on 26 april..
+today is day 2 i linked my github with ubuntu pushed first repositry making change t the file now 
